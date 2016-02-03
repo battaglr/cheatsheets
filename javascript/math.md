@@ -1,5 +1,16 @@
 # Math
 
+## Math.abs()
+
+```js
+Math.abs(-2);
+// => 2
+```
+
+> [`Math.abs()` on MDN]
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs).
+
+
 ## Math.trunc()
 
 ```js
