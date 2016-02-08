@@ -39,3 +39,20 @@
 
 > [`refresh` on W3C]
 (https://www.w3.org/TR/html5/document-metadata.html#attr-meta-http-equiv-refresh)
+
+
+## Robots
+
+```html
+<!-- Instruct robots not to index the document -->
+<meta name="robots" content="noindex" />
+
+<!-- Instruct robots not to follow the links on the document -->
+<meta name="robots" content="nofollow" />
+
+<!-- Instruct robots not to index the document or follow its links -->
+<meta name="robots" content="noindex, nofollow" />
+```
+
+> [`robots` on The Web Robot Pages]
+(http://www.robotstxt.org/meta.html)
