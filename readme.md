@@ -5,7 +5,7 @@ My personal collection of cheatsheets.
 ## Contributing
 
 Contributions are welcome! Have a suggestion or found an error?
-[Let me know](issues/new).
+[Let me know](https://github.com/battaglr/cheatsheets/issues/new).
 
 ## License
 
