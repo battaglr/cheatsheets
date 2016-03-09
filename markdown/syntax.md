@@ -11,7 +11,7 @@
 ###### Heading 6
 ```
 
-> [`Headings` on CommonMark]
+> [*Headings* on CommonMark]
 (http://spec.commonmark.org/0.24/#atx-heading)
 
 
@@ -25,7 +25,7 @@
 **Bold**.
 ```
 
-> [`Emphasis` on CommonMark]
+> [*Emphasis* on CommonMark]
 (http://spec.commonmark.org/0.24/#emphasis-and-strong-emphasis)
 
 
@@ -38,7 +38,7 @@
 - Bar
 ```
 
-> [`Unordered lists` on CommonMark]
+> [*Unordered lists* on CommonMark]
 (http://spec.commonmark.org/0.24/#bullet-list-marker)
 
 ### Ordered
@@ -48,7 +48,7 @@
 2. Bar
 ```
 
-> [`Ordered lists` on CommonMark]
+> [*Ordered lists* on CommonMark]
 (http://spec.commonmark.org/0.24/#ordered-list-marker)
 
 
@@ -58,7 +58,7 @@
 [Link](https://domain.com/)
 ```
 
-> [`Links` on CommonMark]
+> [*Links* on CommonMark]
 (http://spec.commonmark.org/0.24/#links)
 
 
@@ -68,7 +68,7 @@
 ![Image `alt`](https://domain.com/image.gif)
 ```
 
-> [`Images` on CommonMark]
+> [*Images* on CommonMark]
 (http://spec.commonmark.org/0.24/#images)
 
 
@@ -78,7 +78,7 @@
 > Foobar.
 ```
 
-> [`Block quotes` on CommonMark]
+> [*Block quotes* on CommonMark]
 (http://spec.commonmark.org/0.24/#block-quotes)
 
 
@@ -88,7 +88,7 @@
 ---
 ```
 
-> [`Horizontal rules` on CommonMark]
+> [*Horizontal rules* on CommonMark]
 (http://spec.commonmark.org/0.24/#thematic-breaks)
 
 
@@ -100,7 +100,7 @@
 `foobar();`
 ```
 
-> [`Inline code` on CommonMark]
+> [*Inline code* on CommonMark]
 (http://spec.commonmark.org/0.24/#code-span)
 
 ### Block
@@ -112,5 +112,5 @@ var foo,
 ```
 </pre>
 
-> [`Code blocks` on CommonMark]
+> [*Code blocks* on CommonMark]
 (http://spec.commonmark.org/0.24/#fenced-code-blocks)

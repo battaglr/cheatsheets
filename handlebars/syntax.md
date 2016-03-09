@@ -13,7 +13,7 @@
 {{foo['bar']}}
 ```
 
-> [`Identifiers` on Handlebars Documentation]
+> [*Identifiers* on Handlebars Documentation]
 (http://handlebarsjs.com/expressions.html#basic-blocks).
 
 ## Comments
@@ -26,7 +26,7 @@
 {{! I'm a comment too. }}
 ```
 
-> [`Comments` on Handlebars Documentation]
+> [*Comments* on Handlebars Documentation]
 (http://handlebarsjs.com/#comments).
 
 ## Partials
@@ -35,5 +35,5 @@
 {{> path/to/file}}
 ```
 
-> [`Partials` on Handlebars Documentation]
+> [*Partials* on Handlebars Documentation]
 (http://handlebarsjs.com/partials.html).
