@@ -26,6 +26,7 @@ My personal collection of cheatsheets.
 - [Array](javascript/array.md)
 - [Math](javascript/math.md)
 - [Reserved keywords](javascript/reserved-keywords.md)
+- [Truthy and falsy values](javascript/truthy-and-falsy-values.md)
 
 ### Markdown
 
