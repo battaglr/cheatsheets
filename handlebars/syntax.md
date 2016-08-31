@@ -3,13 +3,13 @@
 ## Identifiers
 
 ```hbs
-<!-- Simple -->
+{{! Simple }}
 {{foo}}
 
-<!-- Dot-separated -->
+{{! Dot-separated }}
 {{foo.bar}}
 
-<!-- Segment-literal -->
+{{! Segment-literal }}
 {{foo['bar']}}
 ```
 
@@ -19,11 +19,9 @@
 ## Comments
 
 ```hbs
-<!-- Comment with dashes -->
-{{!-- I'm a comment. --}}
+{{!-- I'm a comment with dashes --}}
 
-<!-- Comment without dashes -->
-{{! I'm a comment too. }}
+{{! I'm a comment without dashes }}
 ```
 
 > [*Comments* on Handlebars Documentation]
