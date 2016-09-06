@@ -7,7 +7,7 @@ My personal collection of cheatsheets.
 ### CSS
 
 - [Font weight](css/font-weight.md)
-- [Link pseudo-classes order](css/link-pseudo-classes-order.md)
+- [Pseudo-classes order on links](css/pseudo-classes-order-on-links.md)
 
 ### Git
 
