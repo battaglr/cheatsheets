@@ -11,7 +11,7 @@ My personal collection of cheatsheets.
 
 ### Git
 
-- [CLI](git/CLI.MD)
+- [CLI](git/cli.md)
 
 ### Handlebars
 
