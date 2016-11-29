@@ -20,6 +20,7 @@ My personal collection of cheatsheets.
 ### HTML
 
 - [`meta`](html/meta.md)
+- [`tabindex`](html/tabindex.md)
 
 ### JavaScript
 
