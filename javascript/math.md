@@ -1,6 +1,6 @@
-# Math
+# `Math`
 
-## Math.abs()
+## `Math.abs()`
 
 ```js
 Math.abs(-2);
@@ -10,8 +10,7 @@ Math.abs(-2);
 > [`Math.abs()` on MDN]
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs).
 
-
-## Math.trunc()
+## `Math.trunc()`
 
 ```js
 Math.trunc(0.4);
@@ -24,8 +23,7 @@ Math.trunc(-3.8);
 > [`Math.trunc()` on MDN]
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc).
 
-
-## Math.round()
+## `Math.round()`
 
 ```js
 Math.round(1.3);
@@ -41,8 +39,7 @@ Math.round(-3.9);
 > [`Math.round()` on MDN]
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round).
 
-
-## Math.ceil()
+## `Math.ceil()`
 
 ```js
 Math.ceil(0.99);
@@ -58,8 +55,7 @@ Math.ceil(-4.1);
 > [`Math.ceil()` on MDN]
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil).
 
-
-## Math.floor()
+## `Math.floor()`
 
 ```js
 Math.floor(0.99);
@@ -75,8 +71,7 @@ Math.floor(-4.1);
 > [`Math.floor()` on MDN]
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor).
 
-
-## Math.min()
+## `Math.min()`
 
 ```js
 Math.min(1, 2);
@@ -89,8 +84,7 @@ Math.min(3, 4, 5);
 > [`Math.min()` on MDN]
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min).
 
-
-## Math.max()
+## `Math.max()`
 
 ```js
 Math.max(1, 2);

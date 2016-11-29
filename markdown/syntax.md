@@ -14,7 +14,6 @@
 > [*Headings* on CommonMark]
 (http://spec.commonmark.org/0.24/#atx-heading)
 
-
 ## Emphasis
 
 ```
@@ -27,7 +26,6 @@
 
 > [*Emphasis* on CommonMark]
 (http://spec.commonmark.org/0.24/#emphasis-and-strong-emphasis)
-
 
 ## Lists
 
@@ -51,7 +49,6 @@
 > [*Ordered lists* on CommonMark]
 (http://spec.commonmark.org/0.24/#ordered-list-marker)
 
-
 ## Links
 
 ```
@@ -60,7 +57,6 @@
 
 > [*Links* on CommonMark]
 (http://spec.commonmark.org/0.24/#links)
-
 
 ## Images
 
@@ -71,7 +67,6 @@
 > [*Images* on CommonMark]
 (http://spec.commonmark.org/0.24/#images)
 
-
 ## Block quotes
 
 ```
@@ -81,7 +76,6 @@
 > [*Block quotes* on CommonMark]
 (http://spec.commonmark.org/0.24/#block-quotes)
 
-
 ## Horizontal rules
 
 ```
@@ -90,7 +84,6 @@
 
 > [*Horizontal rules* on CommonMark]
 (http://spec.commonmark.org/0.24/#thematic-breaks)
-
 
 ## Code
 

@@ -1,4 +1,4 @@
-# Meta
+# `meta`
 
 ## Declare character encoding
 

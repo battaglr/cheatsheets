@@ -1,4 +1,4 @@
-# Font weight
+# `font-weight`
 
 ## Numerical values
 
@@ -31,7 +31,6 @@ font-weight: 800;
 font-weight: 900;
 ```
 
-
 ## Alias values
 
 ```css
@@ -41,7 +40,6 @@ font-weight: normal;
 /* Equivalent to `700` */
 font-weight: bold;
 ```
-
 
 ## Relative values
 

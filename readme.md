@@ -6,7 +6,7 @@ My personal collection of cheatsheets.
 
 ### CSS
 
-- [Font weight](css/font-weight.md)
+- [`font-weight`](css/font-weight.md)
 - [Pseudo-classes order on links](css/pseudo-classes-order-on-links.md)
 
 ### Git
@@ -19,12 +19,12 @@ My personal collection of cheatsheets.
 
 ### HTML
 
-- [Meta](html/meta.md)
+- [`meta`](html/meta.md)
 
 ### JavaScript
 
-- [Array](javascript/array.md)
-- [Math](javascript/math.md)
+- [`Array`](javascript/array.md)
+- [`Math`](javascript/math.md)
 - [Reserved keywords](javascript/reserved-keywords.md)
 - [Truthy and falsy values](javascript/truthy-and-falsy-values.md)
 
