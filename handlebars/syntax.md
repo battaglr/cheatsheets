@@ -35,3 +35,53 @@
 
 > [*Partials* on Handlebars Documentation]
 (http://handlebarsjs.com/partials.html).
+
+## Conditionals
+
+### `if`
+
+```hbs
+{{#if foo}}
+  <div>
+    {{bar}}
+  </div>
+{{/if}}
+```
+
+The `if` helper will consider as *falsy values* the following:
+
+- `false`
+- `undefined`
+- `null`
+- `''` (empty string)
+- `0`
+- `[]`
+
+### `else`
+
+```hbs
+{{#if foo}}
+  <div>
+    {{bar}}
+  </div>
+{{else}}
+  <div>
+    {{baz}}
+  </div>
+{{/if}}
+```
+
+### `unlsess`
+
+The `unless` helper is the inverse of the `if` helper.
+
+```hbs
+{{#unless foo}}
+  <div>
+    {{baz}}
+  </div>
+{{/unless}}
+```
+
+> [*Built-In Helpers* on Handlebars Documentation]
+(http://handlebarsjs.com/builtin_helpers.html#conditionals).
