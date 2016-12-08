@@ -33,6 +33,10 @@ My personal collection of cheatsheets.
 
 - [Syntax](markdown/syntax.md)
 
+### Others
+
+- [Metasyntactic variables](others/metasyntactic-variables.md)
+
 ## Contributing
 
 Contributions are welcome! Have a suggestion or found an error?
