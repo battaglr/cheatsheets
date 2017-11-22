@@ -1,5 +1,17 @@
 # Git
 
+## Index
+
+- [Settings](#settings)
+- [Repositories](#repositories)
+- [Clone](#clone)
+- [Commits](#commits)
+- [Branches](#branches)
+- [Remotes](#remotes)
+- [Stash](#stash)
+- [Rebase](#rebase)
+- [Others](#others)
+
 ## Settings
 
 - Add your *username*:
@@ -153,6 +165,14 @@ are not properly set, your commits will not appear as yours.*
 
   ```sh
   $ git stash pop 'stash@{n}'
+  ```
+
+  *In case you apply stashed changes in the wrong branch:*
+  
+  ```sh
+  $ git reset HEAD --hard
+  $ git checkout <correct-branch>
+  $ git stash pop
   ```
 
 - Remove all stash entries:
