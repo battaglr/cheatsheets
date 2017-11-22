@@ -1,6 +1,6 @@
 # Syntax
 
-## Identifiers
+## Identifiers
 
 ```hbs
 {{! Simple }}
@@ -27,7 +27,7 @@
 > [*Comments* on Handlebars Documentation]
 (http://handlebarsjs.com/#comments).
 
-## Partials
+## Partials
 
 ```hbs
 {{> path/to/file}}
