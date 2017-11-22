@@ -168,9 +168,9 @@ are not properly set, your commits will not appear as yours.*
   ```
 
   *In case you apply stashed changes in the wrong branch:*
-  
-  ```sh
-  $ git reset HEAD --hard
+
+  ```sh
+  $ git reset HEAD --hard
   $ git checkout <correct-branch>
   $ git stash pop
   ```
