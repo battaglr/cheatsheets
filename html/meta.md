@@ -1,6 +1,6 @@
 # `meta`
 
-## Declare character encoding
+## Declare character encoding
 
 ```html
 <meta charset="utf-8" />
@@ -10,7 +10,7 @@
 (https://www.w3.org/TR/html5/document-metadata.html#charset)
 
 
-## Author, description and keywords
+## Author, description and keywords
 
 ```html
 <!-- Specify the author of the document -->
