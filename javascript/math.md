@@ -1,4 +1,4 @@
-# `Math`
+# `Math`
 
 ## `Math.abs()`
 
@@ -7,8 +7,7 @@ Math.abs(-2);
 // => 2
 ```
 
-> [`Math.abs()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs).
+> [`Math.abs()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs).
 
 ## `Math.trunc()`
 
@@ -20,8 +19,7 @@ Math.trunc(-3.8);
 // => -3
 ```
 
-> [`Math.trunc()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc).
+> [`Math.trunc()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc).
 
 ## `Math.round()`
 
@@ -36,8 +34,7 @@ Math.round(-3.9);
 // => -4
 ```
 
-> [`Math.round()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round).
+> [`Math.round()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round).
 
 ## `Math.ceil()`
 
@@ -52,8 +49,7 @@ Math.ceil(-4.1);
 // => -4
 ```
 
-> [`Math.ceil()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil).
+> [`Math.ceil()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil).
 
 ## `Math.floor()`
 
@@ -68,8 +64,7 @@ Math.floor(-4.1);
 // => -5
 ```
 
-> [`Math.floor()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor).
+> [`Math.floor()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor).
 
 ## `Math.min()`
 
@@ -81,8 +76,7 @@ Math.min(3, 4, 5);
 // => 3
 ```
 
-> [`Math.min()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min).
+> [`Math.min()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min).
 
 ## `Math.max()`
 
@@ -94,5 +88,4 @@ Math.max(3, 4, 5);
 // => 5
 ```
 
-> [`Math.max()` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max).
+> [`Math.max()` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max).
