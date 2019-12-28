@@ -9,12 +9,10 @@
 - `null`
 - `NaN`
 
-> [`Falsy` on MDN]
-(https://developer.mozilla.org/en-US/docs/Glossary/Falsy).
+> [`Falsy` on MDN](https://developer.mozilla.org/en-US/docs/Glossary/Falsy).
 
 ## Truthy values
 
 *Everything else.*
 
-> [`Truthy` on MDN]
-(https://developer.mozilla.org/en-US/docs/Glossary/Truthy).
+> [`Truthy` on MDN](https://developer.mozilla.org/en-US/docs/Glossary/Truthy).
