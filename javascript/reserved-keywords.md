@@ -97,7 +97,5 @@ with
 yield
 ```
 
-> [*Reserved keywords* on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords).  
-> [*Reserved keywords* post by Mathias Bynens]
-(https://mathiasbynens.be/notes/reserved-keywords).
+> [*Reserved keywords* on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords).  
+> [*Reserved keywords* post by Mathias Bynens](https://mathiasbynens.be/notes/reserved-keywords).
