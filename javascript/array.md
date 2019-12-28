@@ -1,4 +1,4 @@
-# `Array`
+# `Array`
 
 ## Create
 
@@ -6,8 +6,7 @@
 var arr = ['A', 'B', 'C', 'D'];
 ```
 
-> [`Array` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
+> [`Array` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 ## Access item
 
@@ -19,8 +18,7 @@ arr[3];
 // => 'D'
 ```
 
-> [`Array` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
+> [`Array` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 ## Get number of items
 
@@ -29,5 +27,4 @@ arr.length;
 // => 4
 ```
 
-> [`Array.length` on MDN]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length).
+> [`Array.length` on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length).
