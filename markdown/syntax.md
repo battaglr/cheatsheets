@@ -11,8 +11,7 @@
 ###### Heading 6
 ```
 
-> [*Headings* on CommonMark]
-(http://spec.commonmark.org/0.24/#atx-heading)
+> [*Headings* on CommonMark](http://spec.commonmark.org/0.24/#atx-heading)
 
 ## Emphasis
 
@@ -24,8 +23,7 @@
 **Bold**.
 ```
 
-> [*Emphasis* on CommonMark]
-(http://spec.commonmark.org/0.24/#emphasis-and-strong-emphasis)
+> [*Emphasis* on CommonMark](http://spec.commonmark.org/0.24/#emphasis-and-strong-emphasis)
 
 ## Lists
 
@@ -36,8 +34,7 @@
 - Bar
 ```
 
-> [*Unordered lists* on CommonMark]
-(http://spec.commonmark.org/0.24/#bullet-list-marker)
+> [*Unordered lists* on CommonMark](http://spec.commonmark.org/0.24/#bullet-list-marker)
 
 ### Ordered
 
@@ -46,8 +43,7 @@
 2. Bar
 ```
 
-> [*Ordered lists* on CommonMark]
-(http://spec.commonmark.org/0.24/#ordered-list-marker)
+> [*Ordered lists* on CommonMark](http://spec.commonmark.org/0.24/#ordered-list-marker)
 
 ## Links
 
@@ -55,8 +51,7 @@
 [Link](https://domain.com/)
 ```
 
-> [*Links* on CommonMark]
-(http://spec.commonmark.org/0.24/#links)
+> [*Links* on CommonMark](http://spec.commonmark.org/0.24/#links)
 
 ## Images
 
@@ -64,8 +59,7 @@
 ![Image `alt`](https://domain.com/image.gif)
 ```
 
-> [*Images* on CommonMark]
-(http://spec.commonmark.org/0.24/#images)
+> [*Images* on CommonMark](http://spec.commonmark.org/0.24/#images)
 
 ## Block quotes
 
@@ -73,8 +67,7 @@
 > Foobar.
 ```
 
-> [*Block quotes* on CommonMark]
-(http://spec.commonmark.org/0.24/#block-quotes)
+> [*Block quotes* on CommonMark](http://spec.commonmark.org/0.24/#block-quotes)
 
 ## Horizontal rules
 
@@ -82,8 +75,7 @@
 ---
 ```
 
-> [*Horizontal rules* on CommonMark]
-(http://spec.commonmark.org/0.24/#thematic-breaks)
+> [*Horizontal rules* on CommonMark](http://spec.commonmark.org/0.24/#thematic-breaks)
 
 ## Code
 
@@ -93,8 +85,7 @@
 `foobar();`
 ```
 
-> [*Inline code* on CommonMark]
-(http://spec.commonmark.org/0.24/#code-span)
+> [*Inline code* on CommonMark](http://spec.commonmark.org/0.24/#code-span)
 
 ### Block
 
@@ -105,5 +96,4 @@ var foo,
 ```
 </pre>
 
-> [*Code blocks* on CommonMark]
-(http://spec.commonmark.org/0.24/#fenced-code-blocks)
+> [*Code blocks* on CommonMark](http://spec.commonmark.org/0.24/#fenced-code-blocks)
