@@ -35,6 +35,7 @@ My personal collection of cheatsheets.
 
 ### Others
 
+- [macOS Symbols](others/macos-symbols.md)
 - [Metasyntactic variables](others/metasyntactic-variables.md)
 
 ## Contributing
