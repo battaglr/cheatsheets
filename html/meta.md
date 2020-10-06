@@ -6,8 +6,7 @@
 <meta charset="utf-8" />
 ```
 
-> [`charset` on W3C]
-(https://www.w3.org/TR/html5/document-metadata.html#charset)
+> [`charset` on W3C](https://www.w3.org/TR/html5/document-metadata.html#charset)
 
 
 ## Author, description and keywords
@@ -23,8 +22,7 @@
 <meta name="keywords" content="cheat sheet, meta, html" />
 ```
 
-> [`author`, `description`, `keywords` on W3C]
-(https://www.w3.org/TR/html5/document-metadata.html#standard-metadata-names)
+> [`author`, `description`, `keywords` on W3C](https://www.w3.org/TR/html5/document-metadata.html#standard-metadata-names)
 
 
 ## Refresh or redirect
@@ -37,8 +35,7 @@
 <meta http-equiv="refresh" content="0; url=https://domain.com/" />
 ```
 
-> [`refresh` on W3C]
-(https://www.w3.org/TR/html5/document-metadata.html#attr-meta-http-equiv-refresh)
+> [`refresh` on W3C](https://www.w3.org/TR/html5/document-metadata.html#attr-meta-http-equiv-refresh)
 
 
 ## Robots
@@ -54,5 +51,4 @@
 <meta name="robots" content="noindex, nofollow" />
 ```
 
-> [`robots` on The Web Robot Pages]
-(http://www.robotstxt.org/meta.html)
+> [`robots` on The Web Robot Pages](http://www.robotstxt.org/meta.html)
