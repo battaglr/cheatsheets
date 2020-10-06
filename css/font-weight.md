@@ -51,5 +51,4 @@ font-weight: lighter;
 font-weight: bolder;
 ```
 
-> [`font-weight` on W3C]
-(https://www.w3.org/TR/css-fonts-3/#font-weight-prop)
+> [`font-weight` on W3C](https://www.w3.org/TR/css-fonts-3/#font-weight-prop)
