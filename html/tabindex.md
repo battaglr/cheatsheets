@@ -32,5 +32,4 @@ keyboard navigation.
 </span>
 ```
 
-> [`tabindex` on W3C]
-(https://www.w3.org/TR/html5/editing.html#attr-tabindex)
+> [`tabindex` on W3C](https://www.w3.org/TR/html5/editing.html#attr-tabindex)
